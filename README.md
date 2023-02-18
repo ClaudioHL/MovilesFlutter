@@ -1,16 +1,12 @@
-# cripto_lists
+# List views Crypto
+- List Tiles
+- List View builder
+- Maps
+- Obtener datos desde un objeto
+# Lo que más me costó trabajo
+- Lo más complicado para esta tarea fue lograr que el list view usara la información  del JSON para llenar la información respectiva de cada elemento del JSON. Me ayudó mucho que pudieramos ver como se hacía en clase así que ya yo solo pude llenar la información que hacía falta.
+# Lo que aprendí
+- Con esta tarea aprendí a implementtar objetos a un listView o a poder usar datos de un JSON para la aplicación sin la necesidad de  poner cada elemento en específico uno por uno.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Image1](https://raw.githubusercontent.com/ClaudioHL/MovilesFlutter/cripto/img1.jpg)
+![Image2](https://raw.githubusercontent.com/ClaudioHL/MovilesFlutter/cripto/img2.jpg)
