@@ -1,16 +1,10 @@
-# tips
+# Tip Time App
+Este repositorio contiene una aplicación basada en los lineamientos de diseño de Material design y hace un buen aprovechamiento del espacio en pantalla. Muestra al usuario una interfaz con la que puede interactuar y navegar de una manera amigable.
 
-A new Flutter project.
+Esta aplicación muestra una pequeña interfaz que tiene la función de calcular la propina que se dejará con las opciones de seleccionar el 20, 18 y 15 de porcentaje de la cantidad ingresada por el usuario. También puede seleccionarse el switch de "Round up tip" para que se redondee al siguiente entero la cantidad calculada.
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/84098358/226084698-95b39204-4e7f-4f07-b05b-6470238e5d08.png)
+![image](https://user-images.githubusercontent.com/84098358/226084712-ef830b1d-94f2-470b-bdc4-9f08bc7bed07.png)
+![image](https://user-images.githubusercontent.com/84098358/226084719-7c199a00-feb9-4859-b856-39eb8bf120e7.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Link al video de la app funcionando: https://youtube.com/shorts/6KgRwDEcMBU?feature=share
